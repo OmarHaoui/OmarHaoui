@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Haoui</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-- 🔭 I’m currently working on [Instagram Clone](https://github.com/OmarHaoui/instagram_clone)
+- 🔭 I’m currently working on [Swift app](https://github.com/OmarHaoui/Swift_User.git)
 
 - 🌱 I’m currently learning **BLoC**
 
