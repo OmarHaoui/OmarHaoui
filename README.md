@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Haoui</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-- 🔭 I’m currently working on [Swift app](https://github.com/OmarHaoui/Swift_User.git)
+- 🔭 I’m currently working on [De9 De9Swift app](https://github.com/OmarHaoui/Swift_User.git)
 
 - 🌱 I’m currently learning **BLoC**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omarhaoui955@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
