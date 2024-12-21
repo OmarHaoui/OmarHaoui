@@ -1,29 +1,73 @@
 <h1 align="center">Hi 👋, I'm Omar Haoui</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">A passionate Flutter Developer 🚀</h3>
 
-- 🔭 I’m currently working on [De9 De9](https://github.com/OmarHaoui/Swift_User.git)
-
-- 🌱 I’m currently learning **BLoC**
-
-- 👯 I’m looking to collaborate on [FlutterFire](https://github.com/firebase/flutterfire)
-
-- 👨‍💻 All of my projects are available at [https://github.com/OmarHaoui?tab=repositories](https://github.com/OmarHaoui?tab=repositories)
-
-- 💬 Ask me about **Flutter, Firebase, .Net and C#**
-
-- 📫 How to reach me **omarhaoui955@gmail.com**
-
-- ⚡ Fun fact **I think I am not funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omarhaoui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omarhaoui/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/omarhaoui.955/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omarhaoui.955/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Flutter+enthusiast+%F0%9F%8D%80;Exploring+BLoC+patterns;Open+Source+Contributor;Always+learning+new+technologies!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhaoui&show_icons=true&locale=en&layout=compact" alt="omarhaoui" /></p>
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on [**De9 De9**](https://github.com/OmarHaoui/Swift_User.git)  
+- 🌱 I’m currently learning **BLoC Architecture**  
+- 👯 I’m looking to collaborate on [**FlutterFire**](https://github.com/firebase/flutterfire)  
+- 💬 Ask me about **Flutter, Firebase, .NET, and C#**  
+- 📫 How to reach me: **omarhaoui955@gmail.com**  
+- ⚡ Fun fact: **I think I am not funny, but you decide 😄**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhaoui&" alt="omarhaoui" /></p>
+---
+
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarhaoui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/omarhaoui.955/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:omarhaoui955@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+### ⚙️ My Toolbox:
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarHaoui&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarHaoui&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHaoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" width="50%" />
+</p>
+
+---
+
+### 🌟 Featured Projects:
+<p align="center">
+  <a href="https://github.com/OmarHaoui/Swift_User.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarHaoui&repo=Swift_User&theme=radical" alt="De9 De9"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Fun Facts:
+- 🐧 I love working with Linux and customizing environments.
+- 📸 In my free time, I experiment with graphic design and Blender.
+- 🎯 I enjoy setting challenging coding goals and achieving them one step at a time.
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmarHaoui&theme=radical&margin-w=15&column=7" alt="GitHub Trophies"/>
+</p>
