@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Haoui</h1>
-<h3 align="center">A passionate Flutter Developer 🚀</h3>
+<h3 align="center">A Passionate Flutter Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Flutter+enthusiast+%F0%9F%8D%80;Exploring+BLoC+patterns;Open+Source+Contributor;Always+learning+new+technologies!" alt="Typing SVG" />
@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarHaoui&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarHaoui&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=OmarHaoui&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
