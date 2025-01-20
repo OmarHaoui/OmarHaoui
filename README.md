@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Omar Haoui</h1>
-<h3 align="center">A Passionate Flutter Developer 🚀</h3>
+# Hi 👋, I'm Omar Haoui
+A Passionate Flutter Developer 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Flutter+enthusiast+%F0%9F%8D%80;Exploring+BLoC+patterns;Open+Source+Contributor;Always+learning+new+technologies!" alt="Typing SVG" />
@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHaoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" width="50%" />
 </p>
+
 ---
 
 ### 🌟 Featured Projects:
