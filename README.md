@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarHaoui&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=OmarHaoui&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarHaoui&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
