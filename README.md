@@ -71,3 +71,30 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OmarHaoui&theme=radical&margin-w=15&column=7" alt="GitHub Trophies"/>
 </p>
+
+---
+
+### 📝 Latest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [Mastering Flutter: A Comprehensive Guide](https://example.com)
+- [Exploring BLoC Architecture in Flutter](https://example.com)
+- [Getting Started with Firebase in Flutter](https://example.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🎉 Support Me:
+<p align="center">
+  <a href="https://www.buymeacoffee.com/omarhaoui" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</p>
+
+---
+
+### 📜 License:
+<p align="center">
+  <a href="https://github.com/OmarHaoui/OmarHaoui/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
+  </a>
+</p>
+
+---
