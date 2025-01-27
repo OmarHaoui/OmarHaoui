@@ -46,9 +46,7 @@ A Passionate Flutter Developer 🚀
   <img src="https://streak-stats.demolab.com?user=OmarHaoui&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHaoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" width="50%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=OmarHaoui)](https://git.io/streak-stats)
 
 ---
 
