@@ -1,5 +1,5 @@
 # Hi 👋, I'm Omar Haoui
-A Passionate Flutter Developer 🚀
+A Senior Developer 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Flutter+enthusiast+%F0%9F%8D%80;Exploring+BLoC+patterns;Open+Source+Contributor;Always+learning+new+technologies!" alt="Typing SVG" />
@@ -8,12 +8,12 @@ A Passionate Flutter Developer 🚀
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on [**De9 De9**](https://de9de9.dz/)  
-- 🌱 I’m currently learning **BLoC Architecture**  
+- 🔭 I’m currently working on [**Foorweb**]([https://de9de9.dz/](https://play.google.com/store/apps/details?id=com.foorweb.foorwebapp&hl=en))  
+- 🌱 I’m currently learning **Flutter for linux**  
 - 👯 I’m looking to collaborate on [**FlutterFire**](https://github.com/firebase/flutterfire)  
 - 💬 Ask me about **Flutter, Firebase, .NET, and C#**  
 - 📫 How to reach me: **omarhaoui955@gmail.com**  
-- ⚡ Fun fact: **I think I am not funny, but you decide 😄**
+- ⚡ Fun fact: **I used to be a swimming champion nationally**
 
 ---
 
@@ -61,7 +61,7 @@ A Passionate Flutter Developer 🚀
 
 ### 🚀 Fun Facts:
 - 🐧 I love working with Linux and customizing environments.
-- 📸 In my free time, I experiment with graphic design and Blender.
+- 📸 In my free time, I experiment with devops and AI models.
 - 🎯 I enjoy setting challenging coding goals and achieving them one step at a time.
 
 ---
